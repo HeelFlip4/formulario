@@ -13,37 +13,37 @@ body {
 }
 
 .container {
-    max-width: 800px; /* Aumenta o tamanho do contêiner */
-    padding: 40px; /* Aumenta o espaçamento interno */
+    max-width: 800px; 
+    padding: 40px; 
     background-color: #fff;
     border-radius: 20px;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
-    margin: 40px auto; /* Centraliza e cria espaçamento */
-    text-align: center; /* Centraliza o conteúdo */
+    margin: 40px auto; 
+    text-align: center; 
 }
 
-/* Novo contêiner para garantir que o gráfico respeite o layout */
+
 .grafico-container {
     width: 100%;
-    height: 500px; /* Aumenta a altura do gráfico */
+    height: 500px; 
     display: flex;
-    justify-content: center; /* Centraliza o gráfico horizontalmente */
-    margin: 20px 0; /* Adiciona espaço acima e abaixo do gráfico */
+    justify-content: center; 
+    margin: 20px 0; 
 }
 
 h2 {
     text-align: center;
     color: #000000;
-    margin-bottom: 20px; /* Adiciona espaço abaixo do título */
+    margin-bottom: 20px; 
 }
 
 p {
-    margin-bottom: 20px; /* Adiciona espaço abaixo dos parágrafos */
+    margin-bottom: 20px; 
 }
 
 button {
     width: 100%;
-    padding: 15px; /* Aumenta o tamanho do botão */
+    padding: 15px; 
     background-color: #45B08E;
     color: #fff;
     border: none;
