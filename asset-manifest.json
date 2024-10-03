@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HeelFlip4/formulario/static/css/main.c41ce321.css",
-    "main.js": "/HeelFlip4/formulario/static/js/main.1c526e3e.js",
-    "static/js/453.60d8465d.chunk.js": "/HeelFlip4/formulario/static/js/453.60d8465d.chunk.js",
-    "index.html": "/HeelFlip4/formulario/index.html",
-    "main.c41ce321.css.map": "/HeelFlip4/formulario/static/css/main.c41ce321.css.map",
-    "main.1c526e3e.js.map": "/HeelFlip4/formulario/static/js/main.1c526e3e.js.map",
-    "453.60d8465d.chunk.js.map": "/HeelFlip4/formulario/static/js/453.60d8465d.chunk.js.map"
+    "main.css": "/HeelFlip4/formulario/src/static/css/main.c41ce321.css",
+    "main.js": "/HeelFlip4/formulario/src/static/js/main.ec1d2cc9.js",
+    "static/js/453.60d8465d.chunk.js": "/HeelFlip4/formulario/src/static/js/453.60d8465d.chunk.js",
+    "index.html": "/HeelFlip4/formulario/src/index.html",
+    "main.c41ce321.css.map": "/HeelFlip4/formulario/src/static/css/main.c41ce321.css.map",
+    "main.ec1d2cc9.js.map": "/HeelFlip4/formulario/src/static/js/main.ec1d2cc9.js.map",
+    "453.60d8465d.chunk.js.map": "/HeelFlip4/formulario/src/static/js/453.60d8465d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c41ce321.css",
-    "static/js/main.1c526e3e.js"
+    "static/js/main.ec1d2cc9.js"
   ]
 }
